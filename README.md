@@ -1,2 +1,3 @@
-# idi-cites
-CTS citations in IDI books
+# IDI Cites
+
+Citations of CTS editions in IDI books.
